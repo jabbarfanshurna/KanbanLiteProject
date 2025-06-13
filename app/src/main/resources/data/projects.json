@@ -1,0 +1,21 @@
+[
+  {
+    "id": "f38064f6-c0ed-4682-b4ba-7e15463711fa",
+    "name": "dfjibef",
+    "deskripsi": "djfvnfvir",
+    "deadline": "2025-06-19",
+    "status": "Belum Dimulai",
+    "teamMembers": [
+      "jabbar"
+    ],
+    "tasks": [
+      {
+        "id": "bf6821ce-af30-4062-8dfa-4127450d64a8",
+        "title": "dfjjwdf",
+        "description": "",
+        "status": "IN_PROGRESS",
+        "assignee": "jabbar"
+      }
+    ]
+  }
+]
